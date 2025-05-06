@@ -1,3 +1,68 @@
+# İYTE Satranç Kulübü Web Sitesi
+
+Bu proje, İzmir Yüksek Teknoloji Enstitüsü (İYTE) Satranç Kulübü'nün resmi web sitesidir. Modern ve kullanıcı dostu bir arayüz ile kulüp hakkında bilgi veren, etkinlikleri duyuran ve satranç topluluğunu bir araya getiren bir platformdur.
+
+## Özellikler
+
+- 🎯 Modern ve duyarlı tasarım
+- 📱 Mobil uyumlu arayüz
+- 🎨 Tailwind CSS ile özelleştirilmiş görünüm
+- ♟️ Satranç tahtası animasyonları
+- 📅 Etkinlik takvimi
+- 👥 Takım üyeleri profilleri
+- 📞 İletişim formu
+
+## Teknolojiler
+
+- React.js
+- Tailwind CSS
+- React Router
+- Framer Motion (Animasyonlar için)
+
+## Kurulum
+
+Projeyi yerel ortamınızda çalıştırmak için:
+
+1. Projeyi klonlayın:
+```bash
+git clone https://github.com/zubeyralmaho/iyte-chess.git
+```
+
+2. Proje dizinine gidin:
+```bash
+cd iyte-chess
+```
+
+3. Bağımlılıkları yükleyin:
+```bash
+npm install
+```
+
+4. Geliştirme sunucusunu başlatın:
+```bash
+npm start
+```
+
+Uygulama [http://localhost:3000](http://localhost:3000) adresinde çalışmaya başlayacaktır.
+
+## Katkıda Bulunma
+
+1. Bu depoyu fork edin
+2. Yeni bir branch oluşturun (`git checkout -b feature/amazing-feature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
+4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
+5. Bir Pull Request oluşturun
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
+## İletişim
+
+İYTE Satranç Kulübü - [@iytechess](https://twitter.com/iytechess)
+
+Proje Linki: [https://github.com/zubeyralmaho/iyte-chess](https://github.com/zubeyralmaho/iyte-chess)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
